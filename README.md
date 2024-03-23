@@ -1,6 +1,6 @@
 # Tiny BASIC
 
-[![Tiny BASIC](http://img.youtube.com/vi/L0xym_2eqnM/0.jpg)](https://www.youtube.com/watch?v=L0xym_2eqnM)
+[![Tiny BASIC](http://img.youtube.com/vi/i85o3fFsTWc/0.jpg)](https://www.youtube.com/watch?v=i85o3fFsTWc)
 
 ## 説明
 - 変数は A～Z、配列は @、0〜32767 の数値のみ
